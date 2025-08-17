@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
 <h3 align="center">A passionate Digital Marketer from India</h3>
 
- 👨‍💻 All of my Digital Marketing Projects are available at [https://rahulvermaa67.github.io/Digital-Marketing/](https://rahulvermaa67.github.io/Digital-Marketing/)
+ 👨‍💻 All of My **Digital Marketing Projects** are available at [https://rahulvermaa67.github.io/Digital-Marketing/](https://rahulvermaa67.github.io/Digital-Marketing/)
 
 - 💬 Ask me about **SEO,Google Ads , Google Analytics,Canva, WordPress, Shopify.**
 
